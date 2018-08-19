@@ -6,7 +6,7 @@ It outputs a numpy array of the mean vector, covariance matrix and probability o
 
 Predict method predicts the class by calculating:
 
-![alt text](https://github.com/stevenhurwitt/QDA/raw/master/images/QDA.png "")      
+![](https://github.com/stevenhurwitt/QDA/blob/master/QDA.png)      
 
 where the predicted class is the one that minimizes this over all k.
 
